@@ -1,6 +1,6 @@
 # Group 3 — Tasks 2.1 & 2.2: Your Network Identity; DNS in Action
 
-Members: Wakalala Mulyokela (Leader), Ruth Chipompo, Hampande Luyando, Loveless Chanda, Dumisani Zulu
+Members: Wakalala Mulyokela (Leader), Ruth Chipompo, Hampande Luyando, Loveness Chanda, Dumisani Zulu
 
 ---
 
@@ -78,7 +78,7 @@ Common record types: **A** (IPv4), **AAAA** (IPv6), **CNAME** (alias), **MX** (m
 1. Title + group members — *Wakalala (Leader)*
 2. Our network identity: IP address (screenshots 1–3) — *Ruth*
 3. DHCP & default gateway (screenshots 2, 9) — *Hampande*
-4. DNS: what it is and how lookups work (diagram + screenshots 4–7) — *Loveless*
-5. DNS in action: ping, MX records (screenshots 8, 10) — *Loveless*
+4. DNS: what it is and how lookups work (diagram + screenshots 4–7) — *Loveness*
+5. DNS in action: ping, MX records (screenshots 8, 10) — *Loveness*
 6. Why DNS matters for cybersecurity investigations — *Dumisani*
 7. Summary & questions — *Wakalala*
